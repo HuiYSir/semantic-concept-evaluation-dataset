@@ -1,0 +1,702 @@
+﻿[
+  {
+    "m.name": "barn",
+    "m.description": "agricultural building used for storage and as a covered workplace, may contain a livestock housing section",
+    "r.name": "subclass of",
+    "n.name": "agricultural structure",
+    "n.description": "building used in agricultural production"
+  },
+  {
+    "m.name": "frequency",
+    "m.description": "number of occurrences or cycles per time",
+    "r.name": "subclass of",
+    "n.name": "scalar quantity",
+    "n.description": "one-dimensional physical quantity"
+  },
+  {
+    "m.name": "ecophysiology",
+    "m.description": "study of adaptation of a organism's physiology to environmental conditions",
+    "r.name": "subclass of",
+    "n.name": "ecology",
+    "n.description": "scientific study of the relationships between living organisms"
+  },
+  {
+    "m.name": "labia",
+    "m.description": "part of the female genitalia",
+    "r.name": "subclass of",
+    "n.name": "particular anatomical entity",
+    "n.description": "anatomical entity as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals or particulars (e.g. Albert Einstein's brain)."
+  },
+  {
+    "m.name": "marquee",
+    "m.description": "structure placed over the entrance to a hotel, theatre, casino, train station, or similar building",
+    "r.name": "subclass of",
+    "n.name": "advertising medium",
+    "n.description": "medium for the transmission of advertising messages, with the aid of advertising material may be brought up to the receiver of the advertising"
+  },
+  {
+    "m.name": "blade",
+    "m.description": "main part of a weapon or tool",
+    "r.name": "subclass of",
+    "n.name": "wedge",
+    "n.description": "mechanical device; triangular shaped tool; portable inclined plane; one of the six classical simple machines"
+  },
+  {
+    "m.name": "turbo-diesel",
+    "m.description": "diesel engine equipped with a turbocharger",
+    "r.name": "subclass of",
+    "n.name": "diesel engine",
+    "n.description": "internal combustion engine with quality rotational frequency governing, internal mixture formation, lean air-fuel-ratio, diffusion flame and compression ignition"
+  },
+  {
+    "m.name": "satellite bus",
+    "m.description": "general model on which multiple-production satellite spacecraft are often based; infrastructure of a spacecraft, usually providing locations for the payload (typically space experiments or instruments); service module section of a satellite",
+    "r.name": "subclass of",
+    "n.name": "product model",
+    "n.description": "class of manufactured objects of similar design sold under a specific brand"
+  },
+  {
+    "m.name": "anus cancer",
+    "m.description": "large intestine cancer that is located in the anus",
+    "r.name": "subclass of",
+    "n.name": "particular disease",
+    "n.description": "disease as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals (e.g. the ALS of Stephen Hawking)"
+  },
+  {
+    "m.name": "fictional android",
+    "m.description": "type of human-like robot or synthetic organism which only exists in fiction",
+    "r.name": "subclass of",
+    "n.name": "fictional humanoid",
+    "n.description": "individual humanoid only appearing in fictional stories"
+  },
+  {
+    "m.name": "white wine",
+    "m.description": "wine that is fermented without grape skin, with a yellowish color",
+    "r.name": "subclass of",
+    "n.name": "wine",
+    "n.description": "alcoholic drink typically made from grapes through the fermentation process"
+  },
+  {
+    "m.name": "close-mid vowel",
+    "m.description": "type of vowel sound",
+    "r.name": "subclass of",
+    "n.name": "vowel",
+    "n.description": "sound in spoken language, articulated with an open vocal tract"
+  },
+  {
+    "m.name": "nuclease",
+    "m.description": "class of enzymes",
+    "r.name": "subclass of",
+    "n.name": "esterase",
+    "n.description": "class of enzymes, type of hydrolase"
+  },
+  {
+    "m.name": "worker",
+    "m.description": "person who works",
+    "r.name": "subclass of",
+    "n.name": "person",
+    "n.description": "being that has certain capacities or attributes constituting personhood (avoid use with P31; use Q5 for humans)"
+  },
+  {
+    "m.name": "sulfur",
+    "m.description": "chemical element with symbol S and atomic number 16",
+    "r.name": "subclass of",
+    "n.name": "group 16",
+    "n.description": "group of chemical elements"
+  },
+  {
+    "m.name": "jet car",
+    "m.description": "car propelled by a jet engine",
+    "r.name": "subclass of",
+    "n.name": "motor car",
+    "n.description": "motorized road vehicle designed to carry one to eight people rather than primarily goods"
+  },
+  {
+    "m.name": "attack helicopter",
+    "m.description": "aircraft class designed to attack ground targets with lift provided by a powered rotor",
+    "r.name": "subclass of",
+    "n.name": "attack aircraft",
+    "n.description": "aircraft class designed for air-to-surface warfare"
+  },
+  {
+    "m.name": "mucinosis",
+    "m.description": "human disease",
+    "r.name": "subclass of",
+    "n.name": "connective tissue disease",
+    "n.description": "musculoskeletal system disease that affects tissues such as skin, tendons, and cartilage"
+  },
+  {
+    "m.name": "major general",
+    "m.description": "military rank",
+    "r.name": "subclass of",
+    "n.name": "general",
+    "n.description": "officer of high rank in the armies, and in some nations' air forces, space forces, or marines"
+  },
+  {
+    "m.name": "monster film",
+    "m.description": "film genre",
+    "r.name": "subclass of",
+    "n.name": "speculative fiction film",
+    "n.description": "film genre"
+  },
+  {
+    "m.name": "zinc",
+    "m.description": "chemical element with symbol Zn and atomic number 30",
+    "r.name": "subclass of",
+    "n.name": "material",
+    "n.description": "substance that can occur in different amounts, all with some similar [mixture of some] characteristics, and of which objects can be made up"
+  },
+  {
+    "m.name": "cell metabolism",
+    "m.description": "the chemical reactions and pathways by which individual cells transform chemical substances",
+    "r.name": "subclass of",
+    "n.name": "metabolism",
+    "n.description": "set of chemical reactions and pathways by which living organisms transform chemical substances"
+  },
+  {
+    "m.name": "pain",
+    "m.description": "type of unpleasant feeling",
+    "r.name": "subclass of",
+    "n.name": "unpleasantness",
+    "n.description": "quality of causing displeasure"
+  },
+  {
+    "m.name": "protease inhibitor",
+    "m.description": "compound which inhibits or antagonizes the biosynthesis or actions of proteases (endopeptidases).",
+    "r.name": "subclass of",
+    "n.name": "enzyme inhibitor",
+    "n.description": "molecule that binds to an enzyme and decreases its activity"
+  },
+  {
+    "m.name": "metric function",
+    "m.description": "mathematical function that defines a distance between elements of a set",
+    "r.name": "subclass of",
+    "n.name": "function",
+    "n.description": "association of a single output to each input"
+  },
+  {
+    "m.name": "neurogenic bladder",
+    "m.description": "Human disease",
+    "r.name": "subclass of",
+    "n.name": "urination disorder",
+    "n.description": "Human disease"
+  },
+  {
+    "m.name": "factual television",
+    "m.description": "television program which is meant to be educational or informational, including programs of a documentary nature and programs which have scientific, industrial, or pratical use",
+    "r.name": "subclass of",
+    "n.name": "television program",
+    "n.description": "segment of audiovisual content intended for broadcast on television"
+  },
+  {
+    "m.name": "computing",
+    "m.description": "branch of knowledge",
+    "r.name": "subclass of",
+    "n.name": "economic sector",
+    "n.description": "conceptual grouping of economic activities"
+  },
+  {
+    "m.name": "anti-tank grenade",
+    "m.description": "specialized grenade used to defeat armored targets",
+    "r.name": "subclass of",
+    "n.name": "hand grenade",
+    "n.description": "small bomb that can be thrown by hand"
+  },
+  {
+    "m.name": "poultry dish",
+    "m.description": "food prepartion based on poultry",
+    "r.name": "subclass of",
+    "n.name": "meat dish",
+    "n.description": "food prepartion based on meat"
+  },
+  {
+    "m.name": "gladiator",
+    "m.description": "combatant who entertained audiences in the Roman Republic and Roman Empire n",
+    "r.name": "subclass of",
+    "n.name": "combatant",
+    "n.description": "person who takes a direct part in the hostilities of an armed conflict"
+  },
+  {
+    "m.name": "viol",
+    "m.description": "one of a family of bowed, fretted and stringed instruments",
+    "r.name": "subclass of",
+    "n.name": "viol family",
+    "n.description": "family of string instruments"
+  },
+  {
+    "m.name": "schizophrenia",
+    "m.description": "psychotic disorder characterized by emotional responsiveness and disintegration of thought process",
+    "r.name": "subclass of",
+    "n.name": "psychosis",
+    "n.description": "abnormal condition of the mind that involves a loss of contact with reality"
+  },
+  {
+    "m.name": "blindness",
+    "m.description": "complete or nearly complete lack of vision; visual acuity worse than 3/60",
+    "r.name": "subclass of",
+    "n.name": "visual impairment",
+    "n.description": "decreased ability to see"
+  },
+  {
+    "m.name": "basket",
+    "m.description": "container which is traditionally constructed from stiff fibres",
+    "r.name": "subclass of",
+    "n.name": "container",
+    "n.description": "any receptacle for holding a product used in storage, packaging, and shipping"
+  },
+  {
+    "m.name": "skin carcinoma",
+    "m.description": "skin cancer that is located in tissues of the skin and develops from epithelial cells",
+    "r.name": "subclass of",
+    "n.name": "epithelial skin neoplasm",
+    "n.description": "epithelial neoplasm that involves the zone of skin"
+  },
+  {
+    "m.name": "honey",
+    "m.description": "sweet food made by bees mostly using nectar from flowers",
+    "r.name": "subclass of",
+    "n.name": "shelf-stable food",
+    "n.description": "food of a type that can be safely stored at room temperature in a sealed container"
+  },
+  {
+    "m.name": "epithelial cell",
+    "m.description": "cell type",
+    "r.name": "subclass of",
+    "n.name": "animal cell",
+    "n.description": "type of eukaryotic cell"
+  },
+  {
+    "m.name": "oil",
+    "m.description": "viscous water-insoluble liquid",
+    "r.name": "subclass of",
+    "n.name": "liquid",
+    "n.description": "nearly incompressible fluid that conforms to the shape of its container but retains a nearly constant volume independent of pressure"
+  },
+  {
+    "m.name": "walking stick",
+    "m.description": "stick used to assist with walking, especially one carried as a fashionable accessory",
+    "r.name": "subclass of",
+    "n.name": "costume accessory",
+    "n.description": "item which is used to contribute to the wearer's outfit"
+  },
+  {
+    "m.name": "sexual sporulation",
+    "m.description": "The formation of spores derived from the products of meiosis.",
+    "r.name": "subclass of",
+    "n.name": "developmental process involved in reproduction",
+    "n.description": "A developmental process in which a progressive change in the state of some part of an organism specifically contributes to its ability to form offspring."
+  },
+  {
+    "m.name": "cytokine",
+    "m.description": "broad and loose category of small proteins (~5–20 kDa) that are important in cell signaling",
+    "r.name": "subclass of",
+    "n.name": "protein",
+    "n.description": "biomolecule consisting of chains of amino acid residues"
+  },
+  {
+    "m.name": "salmonellosis",
+    "m.description": "infection caused by Salmonella bacteria",
+    "r.name": "subclass of",
+    "n.name": "Salmonella food poisoning",
+    "n.description": "human disease"
+  },
+  {
+    "m.name": "exception handling",
+    "m.description": "process of responding to anomalous or exceptional conditions requiring special processing in computer programming",
+    "r.name": "subclass of",
+    "n.name": "control flow",
+    "n.description": "order in which individual statements, instructions or function calls of an imperative program are executed or evaluated"
+  },
+  {
+    "m.name": "firefighter",
+    "m.description": "rescuer trained to extinguish hazardous fires",
+    "r.name": "subclass of",
+    "n.name": "rescuer",
+    "n.description": "person who rescues something from harm or danger"
+  },
+  {
+    "m.name": "screwdriver",
+    "m.description": "hand-tool",
+    "r.name": "subclass of",
+    "n.name": "hand tool",
+    "n.description": "tool equipment powered manually"
+  },
+  {
+    "m.name": "space station",
+    "m.description": "spacecraft designed to remain in space for an extended period with a crew",
+    "r.name": "subclass of",
+    "n.name": "artificial satellite",
+    "n.description": "human-made object put into an orbit"
+  },
+  {
+    "m.name": "ichthyosis",
+    "m.description": "skin disease in which dry, scaly skin accumulates",
+    "r.name": "subclass of",
+    "n.name": "skin disease",
+    "n.description": "class of disorder that affects skin, hair or nails"
+  },
+  {
+    "m.name": "glycosidic bond",
+    "m.description": "covalent bond joining a sugar molecule to another group",
+    "r.name": "subclass of",
+    "n.name": "covalent bond",
+    "n.description": "chemical bond that involves the sharing of electron pairs between atoms"
+  },
+  {
+    "m.name": "visible spectrum",
+    "m.description": "portion of the electromagnetic spectrum that is visible to the human eye",
+    "r.name": "subclass of",
+    "n.name": "light",
+    "n.description": "electromagnetic radiation in or near visible spectrum"
+  },
+  {
+    "m.name": "brickwork",
+    "m.description": "masonry made of bricks and mortar",
+    "r.name": "subclass of",
+    "n.name": "building material",
+    "n.description": "material used for construction purposes"
+  },
+  {
+    "m.name": "quinoline alkaloid",
+    "m.description": "class of chemical compounds",
+    "r.name": "subclass of",
+    "n.name": "alkaloid",
+    "n.description": "class of naturally occurring chemical compounds"
+  },
+  {
+    "m.name": "pancreatic extracts",
+    "m.description": "extracts prepared from pancreatic tissue",
+    "r.name": "subclass of",
+    "n.name": "tissue extracts",
+    "n.description": "preparations made from animal tissues or organs"
+  },
+  {
+    "m.name": "viral myositis",
+    "m.description": "human disease",
+    "r.name": "subclass of",
+    "n.name": "infectious myositis",
+    "n.description": "human disease"
+  },
+  {
+    "m.name": "deism",
+    "m.description": "belief in God without revelation",
+    "r.name": "subclass of",
+    "n.name": "religion",
+    "n.description": "social-cultural system"
+  },
+  {
+    "m.name": "flamenco",
+    "m.description": "genre of Spanish music and dance",
+    "r.name": "subclass of",
+    "n.name": "Latin music",
+    "n.description": "musical styles originating from Ibero-America, Spain, Portugal, and the Latino United States, as well as music sung in Spanish or Portuguese"
+  },
+  {
+    "m.name": "acetals",
+    "m.description": "geminal diethers; class of chemical compounds",
+    "r.name": "subclass of",
+    "n.name": "ethers",
+    "n.description": "class of organic compounds containing oxygen connected to two organyl groups"
+  },
+  {
+    "m.name": "shellac",
+    "m.description": "spirit varnish produced from the resin secreted by lac insects on trees in the forests of India and Thailand",
+    "r.name": "subclass of",
+    "n.name": "thermoplastic",
+    "n.description": "plastic that becomes soft when heated and hard when cooled"
+  },
+  {
+    "m.name": "civil wrong",
+    "m.description": "cause of action in civil (non-criminal) law",
+    "r.name": "subclass of",
+    "n.name": "violation of law",
+    "n.description": "action against the law, subject to punishment"
+  },
+  {
+    "m.name": "hot dog",
+    "m.description": "sausage in bun usually with toppings",
+    "r.name": "subclass of",
+    "n.name": "dish",
+    "n.description": "specific food preparation with cooking finished, and ready to eat, or be served"
+  },
+  {
+    "m.name": "still life",
+    "m.description": "art genre mostly showing inanimate objects",
+    "r.name": "subclass of",
+    "n.name": "figure painting",
+    "n.description": "genre of painting"
+  },
+  {
+    "m.name": "acquaintance",
+    "m.description": "person that one knows",
+    "r.name": "subclass of",
+    "n.name": "person",
+    "n.description": "being that has certain capacities or attributes constituting personhood (avoid use with P31; use Q5 for humans)"
+  },
+  {
+    "m.name": "kesidrah year",
+    "m.description": "year of the Hebrew calendar where Cheshvan has 29 days and Kislev 30",
+    "r.name": "subclass of",
+    "n.name": "calendar year",
+    "n.description": "begins on the New Year's Day of the given calendar system and ends on the day before the following New Year's Day"
+  },
+  {
+    "m.name": "ink",
+    "m.description": "liquid or paste that contains pigments or dyes",
+    "r.name": "subclass of",
+    "n.name": "coating",
+    "n.description": "any substance spread over a surface"
+  },
+  {
+    "m.name": "oratory",
+    "m.description": "the art of speaking in public eloquently or effectively",
+    "r.name": "subclass of",
+    "n.name": "oration",
+    "n.description": "address delivered to an audience"
+  },
+  {
+    "m.name": "risk source",
+    "m.description": "fundamental driver, circumstance or action that causes risks in a project, organization, or any other entity",
+    "r.name": "subclass of",
+    "n.name": "source",
+    "n.description": "object (person, place, text, thing, etc.) from which something (information, goods, etc.) comes or is acquired"
+  },
+  {
+    "m.name": "risk",
+    "m.description": "potential for uncontrolled loss due to underlying vulnerability or uncertainties",
+    "r.name": "subclass of",
+    "n.name": "possibility",
+    "n.description": "quality of being possible; the condition or fact of being possible"
+  },
+  {
+    "m.name": "length",
+    "m.description": "measured dimension of an object in a physical space",
+    "r.name": "subclass of",
+    "n.name": "physical quantity",
+    "n.description": "quantitative characterization of an aspect of a physical entity, phenomenon, event, process, transformation, relation, system, or substance"
+  },
+  {
+    "m.name": "medal",
+    "m.description": "round piece of metal, often used as an award",
+    "r.name": "subclass of",
+    "n.name": "work of art",
+    "n.description": "aesthetic item or artistic creation"
+  },
+  {
+    "m.name": "endonuclease",
+    "m.description": "enzymes that catalyze the hydrolysis of internal bonds and so take part in the formation of polynucleotides",
+    "r.name": "subclass of",
+    "n.name": "hydrolase",
+    "n.description": "enzyme family"
+  },
+  {
+    "m.name": "public authority",
+    "m.description": "body that exercises official authority",
+    "r.name": "subclass of",
+    "n.name": "organ",
+    "n.description": "human or group of people forming a body designated to exercise certain activities on behalf of a legal entity or a state"
+  },
+  {
+    "m.name": "social enterprise",
+    "m.description": "type of organization with social objectives",
+    "r.name": "subclass of",
+    "n.name": "organization",
+    "n.description": "social entity established to meet needs or pursue goals"
+  },
+  {
+    "m.name": "gaming tablet",
+    "m.description": "tablet computer intended for gaming",
+    "r.name": "subclass of",
+    "n.name": "handheld game console",
+    "n.description": "lightweight, portable electronic device used for gaming"
+  },
+  {
+    "m.name": "profanity",
+    "m.description": "socially offensive form of language",
+    "r.name": "subclass of",
+    "n.name": "word",
+    "n.description": "smallest linguistic element that will be said in isolation with semantic or pragmatic content"
+  },
+  {
+    "m.name": "transport route",
+    "m.description": "regular operation of a particular path for a type of public or non-public transportation",
+    "r.name": "subclass of",
+    "n.name": "service",
+    "n.description": "economic product that directly satisfies wants without producing a lasting asset"
+  },
+  {
+    "m.name": "certiorari",
+    "m.description": "court order for judicial review",
+    "r.name": "subclass of",
+    "n.name": "writ",
+    "n.description": "formal written order issued by a body with administrative or judicial jurisdiction"
+  },
+  {
+    "m.name": "impossibility",
+    "m.description": "something not possible; quality, condition, or fact of being impossible",
+    "r.name": "subclass of",
+    "n.name": "contradiction",
+    "n.description": "logical incompatibility between two or more propositions"
+  },
+  {
+    "m.name": "nucleated cell",
+    "m.description": "cell type",
+    "r.name": "subclass of",
+    "n.name": "cell",
+    "n.description": "basic structural and functional unit of all organisms"
+  },
+  {
+    "m.name": "military legion",
+    "m.description": "military unit type class",
+    "r.name": "subclass of",
+    "n.name": "military unit",
+    "n.description": "organization formed as part of an armed force"
+  },
+  {
+    "m.name": "sovereign state",
+    "m.description": "political organization with a centralized independent government",
+    "r.name": "subclass of",
+    "n.name": "state",
+    "n.description": "organised community living under a system of government; either a sovereign state, constituent state, or federated state"
+  },
+  {
+    "m.name": "dementia",
+    "m.description": "long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",
+    "r.name": "subclass of",
+    "n.name": "cognitive disorder",
+    "n.description": "disease of mental health that affects cognitive functions including memory processing, perception and problem solving"
+  },
+  {
+    "m.name": "literary group",
+    "m.description": "group or school of writers",
+    "r.name": "subclass of",
+    "n.name": "group of humans",
+    "n.description": "any set of human beings"
+  },
+  {
+    "m.name": "public figure",
+    "m.description": "famous person who is often written about in newspapers and magazines or is often on television or the radio",
+    "r.name": "subclass of",
+    "n.name": "celebrity",
+    "n.description": "prominent person who commands some degree of public fascination and appears in the media"
+  },
+  {
+    "m.name": "health psychology",
+    "m.description": "the study of psychological and behavioral processes in health, illness, and healthcare",
+    "r.name": "subclass of",
+    "n.name": "psychology",
+    "n.description": "study of mental functions and behaviours"
+  },
+  {
+    "m.name": "two-way radio",
+    "m.description": "a radio that can do both transmit and receive a signal (a transceiver), unlike a broadcast receiver which only receives content; allows the operator to have a conversation with other similar radios operating on the same radio frequency (channel)",
+    "r.name": "subclass of",
+    "n.name": "transceiver",
+    "n.description": "device comprising both a transmitter and a receiver"
+  },
+  {
+    "m.name": "body fluids",
+    "m.description": "liquids originating from the inside of an organism, including fluids excreted or secreted, and body water that normally is not",
+    "r.name": "subclass of",
+    "n.name": "particular anatomical entity",
+    "n.description": "anatomical entity as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals or particulars (e.g. Albert Einstein's brain)."
+  },
+  {
+    "m.name": "government program",
+    "m.description": "government-financed initiative",
+    "r.name": "subclass of",
+    "n.name": "initiative",
+    "n.description": "plan or process to achieve something or solve a problem"
+  },
+  {
+    "m.name": "sculptor",
+    "m.description": "artist specializing in sculpture",
+    "r.name": "subclass of",
+    "n.name": "plastic artist",
+    "n.description": "practitioner of plastic arts"
+  },
+  {
+    "m.name": "streaming service",
+    "m.description": "service that delivers on-demand content via the Internet",
+    "r.name": "subclass of",
+    "n.name": "digital distribution platform",
+    "n.description": "platform for distributing and managing software"
+  },
+  {
+    "m.name": "fibula",
+    "m.description": "ancient pin or brooch for securing clothing",
+    "r.name": "subclass of",
+    "n.name": "Clothing in ancient Rome",
+    "n.description": "Clothing style in ancient Rome"
+  },
+  {
+    "m.name": "cytoskeleton",
+    "m.description": "any of the various filamentous elements that form the internal framework of cells",
+    "r.name": "subclass of",
+    "n.name": "intracellular non-membrane-bounded organelle",
+    "n.description": "Organized structure of distinctive morphology and function, not bounded by a lipid bilayer membrane and occurring within the cell. Includes ribosomes, the cytoskeleton and chromosomes."
+  },
+  {
+    "m.name": "inositol phosphate",
+    "m.description": "class of chemical compounds",
+    "r.name": "subclass of",
+    "n.name": "phospholipids",
+    "n.description": "lipids containing phosphoric acid as a mono- or di-ester"
+  },
+  {
+    "m.name": "vulnerability",
+    "m.description": "the inability of an entity to withstand the adverse effects of a hostile or uncertain environment",
+    "r.name": "subclass of",
+    "n.name": "risk source",
+    "n.description": "fundamental driver, circumstance or action that causes risks in a project, organization, or any other entity"
+  },
+  {
+    "m.name": "green tea",
+    "m.description": "unoxidized tea",
+    "r.name": "subclass of",
+    "n.name": "kampo herb",
+    "n.description": "crude drug which is used in kampo formulae"
+  },
+  {
+    "m.name": "indicator light",
+    "m.description": "small LED or other light source on an electronic device, used to provide status information",
+    "r.name": "subclass of",
+    "n.name": "display device",
+    "n.description": "output device for presentation of information in visual form"
+  },
+  {
+    "m.name": "fighter-bomber",
+    "m.description": "multi-role combat aircraft designed to both combat other aircraft and to employ bombs against ground targets",
+    "r.name": "subclass of",
+    "n.name": "attack aircraft",
+    "n.description": "aircraft class designed for air-to-surface warfare"
+  },
+  {
+    "m.name": "son",
+    "m.description": "male offspring; a boy or man in relation to his parents",
+    "r.name": "subclass of",
+    "n.name": "offspring",
+    "n.description": "in biology, the product of reproduction of an organism"
+  },
+  {
+    "m.name": "fried dough",
+    "m.description": "North American fried dough pastry",
+    "r.name": "subclass of",
+    "n.name": "fried food",
+    "n.description": "food cooked by frying"
+  },
+  {
+    "m.name": "jet airliner",
+    "m.description": "passenger aeroplane that is powered by jet engines",
+    "r.name": "subclass of",
+    "n.name": "airliner",
+    "n.description": "aircraft designed for commercial transportation of passengers and cargo"
+  },
+  {
+    "m.name": "city district",
+    "m.description": "type of administrative division",
+    "r.name": "subclass of",
+    "n.name": "political territorial entity",
+    "n.description": "region accepted to be in the jurisdiction of a particular government entity"
+  }
+]

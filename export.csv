@@ -1,0 +1,101 @@
+﻿m.name,m.description,r.name,n.name,n.description
+barn,"agricultural building used for storage and as a covered workplace, may contain a livestock housing section",subclass of,agricultural structure,building used in agricultural production
+frequency,number of occurrences or cycles per time,subclass of,scalar quantity,one-dimensional physical quantity
+ecophysiology,study of adaptation of a organism's physiology to environmental conditions,subclass of,ecology,scientific study of the relationships between living organisms
+labia,part of the female genitalia,subclass of,particular anatomical entity,"anatomical entity as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals or particulars (e.g. Albert Einstein's brain)."
+marquee,"structure placed over the entrance to a hotel, theatre, casino, train station, or similar building",subclass of,advertising medium,"medium for the transmission of advertising messages, with the aid of advertising material may be brought up to the receiver of the advertising"
+blade,main part of a weapon or tool,subclass of,wedge,mechanical device; triangular shaped tool; portable inclined plane; one of the six classical simple machines
+turbo-diesel,diesel engine equipped with a turbocharger,subclass of,diesel engine,"internal combustion engine with quality rotational frequency governing, internal mixture formation, lean air-fuel-ratio, diffusion flame and compression ignition"
+satellite bus,"general model on which multiple-production satellite spacecraft are often based; infrastructure of a spacecraft, usually providing locations for the payload (typically space experiments or instruments); service module section of a satellite",subclass of,product model,class of manufactured objects of similar design sold under a specific brand
+anus cancer,large intestine cancer that is located in the anus,subclass of,particular disease,"disease as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals (e.g. the ALS of Stephen Hawking)"
+fictional android,type of human-like robot or synthetic organism which only exists in fiction,subclass of,fictional humanoid,individual humanoid only appearing in fictional stories
+white wine,"wine that is fermented without grape skin, with a yellowish color",subclass of,wine,alcoholic drink typically made from grapes through the fermentation process
+close-mid vowel,type of vowel sound,subclass of,vowel,"sound in spoken language, articulated with an open vocal tract"
+nuclease,class of enzymes,subclass of,esterase,"class of enzymes, type of hydrolase"
+worker,person who works,subclass of,person,being that has certain capacities or attributes constituting personhood (avoid use with P31; use Q5 for humans)
+sulfur,chemical element with symbol S and atomic number 16,subclass of,group 16,group of chemical elements
+jet car,car propelled by a jet engine,subclass of,motor car,motorized road vehicle designed to carry one to eight people rather than primarily goods
+attack helicopter,aircraft class designed to attack ground targets with lift provided by a powered rotor,subclass of,attack aircraft,aircraft class designed for air-to-surface warfare
+mucinosis,human disease,subclass of,connective tissue disease,"musculoskeletal system disease that affects tissues such as skin, tendons, and cartilage"
+major general,military rank,subclass of,general,"officer of high rank in the armies, and in some nations' air forces, space forces, or marines"
+monster film,film genre,subclass of,speculative fiction film,film genre
+zinc,chemical element with symbol Zn and atomic number 30,subclass of,material,"substance that can occur in different amounts, all with some similar [mixture of some] characteristics, and of which objects can be made up"
+cell metabolism,the chemical reactions and pathways by which individual cells transform chemical substances,subclass of,metabolism,set of chemical reactions and pathways by which living organisms transform chemical substances
+pain,type of unpleasant feeling,subclass of,unpleasantness,quality of causing displeasure
+protease inhibitor,compound which inhibits or antagonizes the biosynthesis or actions of proteases (endopeptidases).,subclass of,enzyme inhibitor,molecule that binds to an enzyme and decreases its activity
+metric function,mathematical function that defines a distance between elements of a set,subclass of,function,association of a single output to each input
+neurogenic bladder,Human disease,subclass of,urination disorder,Human disease
+factual television,"television program which is meant to be educational or informational, including programs of a documentary nature and programs which have scientific, industrial, or pratical use",subclass of,television program,segment of audiovisual content intended for broadcast on television
+computing,branch of knowledge,subclass of,economic sector,conceptual grouping of economic activities
+anti-tank grenade,specialized grenade used to defeat armored targets,subclass of,hand grenade,small bomb that can be thrown by hand
+poultry dish,food prepartion based on poultry,subclass of,meat dish,food prepartion based on meat
+gladiator,combatant who entertained audiences in the Roman Republic and Roman Empire n,subclass of,combatant,person who takes a direct part in the hostilities of an armed conflict
+viol,"one of a family of bowed, fretted and stringed instruments",subclass of,viol family,family of string instruments
+schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,subclass of,psychosis,abnormal condition of the mind that involves a loss of contact with reality
+blindness,complete or nearly complete lack of vision; visual acuity worse than 3/60,subclass of,visual impairment,decreased ability to see
+basket,container which is traditionally constructed from stiff fibres,subclass of,container,"any receptacle for holding a product used in storage, packaging, and shipping"
+skin carcinoma,skin cancer that is located in tissues of the skin and develops from epithelial cells,subclass of,epithelial skin neoplasm,epithelial neoplasm that involves the zone of skin
+honey,sweet food made by bees mostly using nectar from flowers,subclass of,shelf-stable food,food of a type that can be safely stored at room temperature in a sealed container
+epithelial cell,cell type,subclass of,animal cell,type of eukaryotic cell
+oil,viscous water-insoluble liquid,subclass of,liquid,nearly incompressible fluid that conforms to the shape of its container but retains a nearly constant volume independent of pressure
+walking stick,"stick used to assist with walking, especially one carried as a fashionable accessory",subclass of,costume accessory,item which is used to contribute to the wearer's outfit
+sexual sporulation,The formation of spores derived from the products of meiosis.,subclass of,developmental process involved in reproduction,A developmental process in which a progressive change in the state of some part of an organism specifically contributes to its ability to form offspring.
+cytokine,broad and loose category of small proteins (~5–20 kDa) that are important in cell signaling,subclass of,protein,biomolecule consisting of chains of amino acid residues
+salmonellosis,infection caused by Salmonella bacteria,subclass of,Salmonella food poisoning,human disease
+exception handling,process of responding to anomalous or exceptional conditions requiring special processing in computer programming,subclass of,control flow,"order in which individual statements, instructions or function calls of an imperative program are executed or evaluated"
+firefighter,rescuer trained to extinguish hazardous fires,subclass of,rescuer,person who rescues something from harm or danger
+screwdriver,hand-tool,subclass of,hand tool,tool equipment powered manually
+space station,spacecraft designed to remain in space for an extended period with a crew,subclass of,artificial satellite,human-made object put into an orbit
+ichthyosis,"skin disease in which dry, scaly skin accumulates",subclass of,skin disease,"class of disorder that affects skin, hair or nails"
+glycosidic bond,covalent bond joining a sugar molecule to another group,subclass of,covalent bond,chemical bond that involves the sharing of electron pairs between atoms
+visible spectrum,portion of the electromagnetic spectrum that is visible to the human eye,subclass of,light,electromagnetic radiation in or near visible spectrum
+brickwork,masonry made of bricks and mortar,subclass of,building material,material used for construction purposes
+quinoline alkaloid,class of chemical compounds,subclass of,alkaloid,class of naturally occurring chemical compounds
+pancreatic extracts,extracts prepared from pancreatic tissue,subclass of,tissue extracts,preparations made from animal tissues or organs
+viral myositis,human disease,subclass of,infectious myositis,human disease
+deism,belief in God without revelation,subclass of,religion,social-cultural system
+flamenco,genre of Spanish music and dance,subclass of,Latin music,"musical styles originating from Ibero-America, Spain, Portugal, and the Latino United States, as well as music sung in Spanish or Portuguese"
+acetals,geminal diethers; class of chemical compounds,subclass of,ethers,class of organic compounds containing oxygen connected to two organyl groups
+shellac,spirit varnish produced from the resin secreted by lac insects on trees in the forests of India and Thailand,subclass of,thermoplastic,plastic that becomes soft when heated and hard when cooled
+civil wrong,cause of action in civil (non-criminal) law,subclass of,violation of law,"action against the law, subject to punishment"
+hot dog,sausage in bun usually with toppings,subclass of,dish,"specific food preparation with cooking finished, and ready to eat, or be served"
+still life,art genre mostly showing inanimate objects,subclass of,figure painting,genre of painting
+acquaintance,person that one knows,subclass of,person,being that has certain capacities or attributes constituting personhood (avoid use with P31; use Q5 for humans)
+kesidrah year,year of the Hebrew calendar where Cheshvan has 29 days and Kislev 30,subclass of,calendar year,begins on the New Year's Day of the given calendar system and ends on the day before the following New Year's Day
+ink,liquid or paste that contains pigments or dyes,subclass of,coating,any substance spread over a surface
+oratory,the art of speaking in public eloquently or effectively,subclass of,oration,address delivered to an audience
+risk source,"fundamental driver, circumstance or action that causes risks in a project, organization, or any other entity",subclass of,source,"object (person, place, text, thing, etc.) from which something (information, goods, etc.) comes or is acquired"
+risk,potential for uncontrolled loss due to underlying vulnerability or uncertainties,subclass of,possibility,quality of being possible; the condition or fact of being possible
+length,measured dimension of an object in a physical space,subclass of,physical quantity,"quantitative characterization of an aspect of a physical entity, phenomenon, event, process, transformation, relation, system, or substance"
+medal,"round piece of metal, often used as an award",subclass of,work of art,aesthetic item or artistic creation
+endonuclease,enzymes that catalyze the hydrolysis of internal bonds and so take part in the formation of polynucleotides,subclass of,hydrolase,enzyme family
+public authority,body that exercises official authority,subclass of,organ,human or group of people forming a body designated to exercise certain activities on behalf of a legal entity or a state
+social enterprise,type of organization with social objectives,subclass of,organization,social entity established to meet needs or pursue goals
+gaming tablet,tablet computer intended for gaming,subclass of,handheld game console,"lightweight, portable electronic device used for gaming"
+profanity,socially offensive form of language,subclass of,word,smallest linguistic element that will be said in isolation with semantic or pragmatic content
+transport route,regular operation of a particular path for a type of public or non-public transportation,subclass of,service,economic product that directly satisfies wants without producing a lasting asset
+certiorari,court order for judicial review,subclass of,writ,formal written order issued by a body with administrative or judicial jurisdiction
+impossibility,"something not possible; quality, condition, or fact of being impossible",subclass of,contradiction,logical incompatibility between two or more propositions
+nucleated cell,cell type,subclass of,cell,basic structural and functional unit of all organisms
+military legion,military unit type class,subclass of,military unit,organization formed as part of an armed force
+sovereign state,political organization with a centralized independent government,subclass of,state,"organised community living under a system of government; either a sovereign state, constituent state, or federated state"
+dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",subclass of,cognitive disorder,"disease of mental health that affects cognitive functions including memory processing, perception and problem solving"
+literary group,group or school of writers,subclass of,group of humans,any set of human beings
+public figure,famous person who is often written about in newspapers and magazines or is often on television or the radio,subclass of,celebrity,prominent person who commands some degree of public fascination and appears in the media
+health psychology,"the study of psychological and behavioral processes in health, illness, and healthcare",subclass of,psychology,study of mental functions and behaviours
+two-way radio,"a radio that can do both transmit and receive a signal (a transceiver), unlike a broadcast receiver which only receives content; allows the operator to have a conversation with other similar radios operating on the same radio frequency (channel)",subclass of,transceiver,device comprising both a transmitter and a receiver
+body fluids,"liquids originating from the inside of an organism, including fluids excreted or secreted, and body water that normally is not",subclass of,particular anatomical entity,"anatomical entity as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals or particulars (e.g. Albert Einstein's brain)."
+government program,government-financed initiative,subclass of,initiative,plan or process to achieve something or solve a problem
+sculptor,artist specializing in sculpture,subclass of,plastic artist,practitioner of plastic arts
+streaming service,service that delivers on-demand content via the Internet,subclass of,digital distribution platform,platform for distributing and managing software
+fibula,ancient pin or brooch for securing clothing,subclass of,Clothing in ancient Rome,Clothing style in ancient Rome
+cytoskeleton,any of the various filamentous elements that form the internal framework of cells,subclass of,intracellular non-membrane-bounded organelle,"Organized structure of distinctive morphology and function, not bounded by a lipid bilayer membrane and occurring within the cell. Includes ribosomes, the cytoskeleton and chromosomes."
+inositol phosphate,class of chemical compounds,subclass of,phospholipids,lipids containing phosphoric acid as a mono- or di-ester
+vulnerability,the inability of an entity to withstand the adverse effects of a hostile or uncertain environment,subclass of,risk source,"fundamental driver, circumstance or action that causes risks in a project, organization, or any other entity"
+green tea,unoxidized tea,subclass of,kampo herb,crude drug which is used in kampo formulae
+indicator light,"small LED or other light source on an electronic device, used to provide status information",subclass of,display device,output device for presentation of information in visual form
+fighter-bomber,multi-role combat aircraft designed to both combat other aircraft and to employ bombs against ground targets,subclass of,attack aircraft,aircraft class designed for air-to-surface warfare
+son,male offspring; a boy or man in relation to his parents,subclass of,offspring,"in biology, the product of reproduction of an organism"
+fried dough,North American fried dough pastry,subclass of,fried food,food cooked by frying
+jet airliner,passenger aeroplane that is powered by jet engines,subclass of,airliner,aircraft designed for commercial transportation of passengers and cargo
+city district,type of administrative division,subclass of,political territorial entity,region accepted to be in the jurisdiction of a particular government entity
