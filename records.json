@@ -1,0 +1,702 @@
+﻿[
+  {
+    "m.name": "kidney stone",
+    "m.description": "formation of mineral 'stones' in the urinary tract",
+    "r.name": "subclass of",
+    "n.name": "calculus",
+    "n.description": "concretion of material, usually mineral salts, that forms in an organ or duct of the body"
+  },
+  {
+    "m.name": "substance",
+    "m.description": "basic ontological concept",
+    "r.name": "subclass of",
+    "n.name": "entity",
+    "n.description": "anything that can be considered, discussed, or observed"
+  },
+  {
+    "m.name": "sung poetry",
+    "m.description": "musical movement and genre of singer-songwriter music, mainly from the Baltic States and Poland; songs consisting of a poem (most often a ballad) and music written specially for that text",
+    "r.name": "subclass of",
+    "n.name": "singer-songwriter music",
+    "n.description": "group of musical genres that emerged in the mid-20th century, referring to the music of singer-songwriters, often characterised by political or personal lyrics and minimal acoustic accompaniment"
+  },
+  {
+    "m.name": "virilism",
+    "m.description": "development of male secondary sex characteristics in the female",
+    "r.name": "subclass of",
+    "n.name": "virilization",
+    "n.description": "biological development of male sex characteristics"
+  },
+  {
+    "m.name": "dry toilet",
+    "m.description": "toilet that operates without flush water",
+    "r.name": "subclass of",
+    "n.name": "toilet",
+    "n.description": "sanitation fixture"
+  },
+  {
+    "m.name": "hash function",
+    "m.description": "type of function that maps data of arbitrary size to data of fixed size",
+    "r.name": "subclass of",
+    "n.name": "deterministic algorithm",
+    "n.description": "algorithm which, given a particular input, will always produce the same output"
+  },
+  {
+    "m.name": "trial",
+    "m.description": "coming together of parties to a dispute, to present information in a tribunal",
+    "r.name": "subclass of",
+    "n.name": "occurrence",
+    "n.description": "occurrence of a fact or object in space-time; instantiation of a property in an object"
+  },
+  {
+    "m.name": "nature reserve",
+    "m.description": "type of protected natural object in Finland",
+    "r.name": "subclass of",
+    "n.name": "natural heritage",
+    "n.description": "elements of biodiversity, including flora and fauna, ecosystems, fossils and geological structures"
+  },
+  {
+    "m.name": "kana",
+    "m.description": "Japanese syllable writing system",
+    "r.name": "subclass of",
+    "n.name": "syllabary",
+    "n.description": "set of written symbols that represent the syllables or moras which make up words"
+  },
+  {
+    "m.name": "femininity",
+    "m.description": "set of qualities, characteristics or roles traditionally associated with femaleness",
+    "r.name": "subclass of",
+    "n.name": "gender",
+    "n.description": "characteristics distinguishing between femininity and masculinity"
+  },
+  {
+    "m.name": "musical release",
+    "m.description": "a collection of musical recordings released in a specific format for consumption",
+    "r.name": "subclass of",
+    "n.name": "audio release",
+    "n.description": "a collection of audio recordings released in a specific format for consumption"
+  },
+  {
+    "m.name": "business jet",
+    "m.description": "civil jet aircraft designed to transport executives and other VIPs",
+    "r.name": "subclass of",
+    "n.name": "jet aircraft",
+    "n.description": "aircraft class powered by jet propulsion engines"
+  },
+  {
+    "m.name": "fault",
+    "m.description": "abnormal condition or defect at the component, equipment, or sub-system level which may lead to an equipment failure",
+    "r.name": "subclass of",
+    "n.name": "state",
+    "n.description": "set of instantaneous values of all variables to which a system or computer program has access"
+  },
+  {
+    "m.name": "school laboratory",
+    "m.description": "subconcept of School facilities (scot/10140)",
+    "r.name": "subclass of",
+    "n.name": "laboratory",
+    "n.description": "facility that provides controlled conditions in which scientific or technological research, experiments, and measurement may be performed"
+  },
+  {
+    "m.name": "fruit",
+    "m.description": "food, edible in the raw state",
+    "r.name": "subclass of",
+    "n.name": "natural physical object",
+    "n.description": "natural thing that exists that humans did not make"
+  },
+  {
+    "m.name": "luxury good",
+    "m.description": "type of desirable good",
+    "r.name": "subclass of",
+    "n.name": "goods",
+    "n.description": "tangible and intangible thing, except labor tied services, that satisfies human wants and provides utility"
+  },
+  {
+    "m.name": "street artist",
+    "m.description": "artist performing in public places, for gratuities",
+    "r.name": "subclass of",
+    "n.name": "visual artist",
+    "n.description": "artist involved with the visual arts"
+  },
+  {
+    "m.name": "hepatocyte",
+    "m.description": "liver cell type",
+    "r.name": "subclass of",
+    "n.name": "cell",
+    "n.description": "basic structural and functional unit of all organisms"
+  },
+  {
+    "m.name": "cyberattack",
+    "m.description": "any attempt to expose, alter, disable, destroy, steal or gain unauthorized access to or make unauthorized use of a computer system",
+    "r.name": "subclass of",
+    "n.name": "technology risk",
+    "n.description": "risk of emerging or traditional technology, frequently associated with inadequate provision of essential dependency, control or safeguards"
+  },
+  {
+    "m.name": "spirituality",
+    "m.description": "philosophical and theological term",
+    "r.name": "subclass of",
+    "n.name": "mental process",
+    "n.description": "things that individuals can do with their minds"
+  },
+  {
+    "m.name": "signal processing",
+    "m.description": "models and analyzes data representations of physical events",
+    "r.name": "subclass of",
+    "n.name": "technology",
+    "n.description": "making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, and methods of organization"
+  },
+  {
+    "m.name": "leukocyte migration",
+    "m.description": "The movement of a leukocyte within or between different tissues and organs of the body.",
+    "r.name": "subclass of",
+    "n.name": "immune system process",
+    "n.description": "any process involved in the development or functioning of the immune system, an organismal system for calibrated responses to potential internal or invasive threats"
+  },
+  {
+    "m.name": "kainate receptor",
+    "m.description": "class of transport proteins",
+    "r.name": "subclass of",
+    "n.name": "ionotropic glutamate receptor, metazoa",
+    "n.description": "ligand-gated ion channels that are activated by the neurotransmitter glutamate"
+  },
+  {
+    "m.name": "mine",
+    "m.description": "place for the extraction of minerals",
+    "r.name": "subclass of",
+    "n.name": "source of material",
+    "n.description": "place where physical material was mined, quarried, found, or produced"
+  },
+  {
+    "m.name": "marine ecology",
+    "m.description": "branch of ecology concerning marine-life habitats, populations, and interactions among organisms and the surrounding environment",
+    "r.name": "subclass of",
+    "n.name": "ecology",
+    "n.description": "scientific study of the relationships between living organisms"
+  },
+  {
+    "m.name": "échevin",
+    "m.description": "municipal office in Luxembourg and Belgium (where it is also known as a schepen). The equivalent office in the Netherlands is also known as an schepen and similar offices include the Italian scabino, the German Schöffe, and the Czech šepmistr.",
+    "r.name": "subclass of",
+    "n.name": "public office",
+    "n.description": "elected or appointed political position"
+  },
+  {
+    "m.name": "fortified wine",
+    "m.description": "wine with an added distilled beverage",
+    "r.name": "subclass of",
+    "n.name": "wine",
+    "n.description": "alcoholic drink typically made from grapes through the fermentation process"
+  },
+  {
+    "m.name": "oligosaccharide",
+    "m.description": "a saccharide polymer containing a small number (typically two to ten) of simple sugars (monosaccharides)",
+    "r.name": "subclass of",
+    "n.name": "carbohydrate",
+    "n.description": "organic compound that consists only of carbon, hydrogen, and oxygen"
+  },
+  {
+    "m.name": "ghat",
+    "m.description": "series of steps leading down to a body of water, particularly a holy river in South Asia",
+    "r.name": "subclass of",
+    "n.name": "architectural structure",
+    "n.description": "human-designed and -made structure"
+  },
+  {
+    "m.name": "gender minority",
+    "m.description": "individual whose gender identity (man, woman, other) or expression (masculine, feminine, other) is different from their sex (male, female) assigned at birth or gender binarism",
+    "r.name": "subclass of",
+    "n.name": "gender identity",
+    "n.description": "person's private sense of, and subjective experience of, their own gender"
+  },
+  {
+    "m.name": "geography",
+    "m.description": "science that studies the terrestrial surface, the societies that inhabit it and the territories, landscapes, places or regions that form it when interacting with each other",
+    "r.name": "subclass of",
+    "n.name": "research object",
+    "n.description": "something that undergoes testing or observation in a scientific experiment"
+  },
+  {
+    "m.name": "primitive reflexes",
+    "m.description": "reflex actions in the central nervous system,exhibited by normal infants, but not neurologically intact adults,in response to particular stimuli;absent due to the development of the frontal lobes as a child transitions normally into child development",
+    "r.name": "subclass of",
+    "n.name": "reflex",
+    "n.description": "automatic, subconscious response to a stimulus"
+  },
+  {
+    "m.name": "adhesion",
+    "m.description": "interaction in which dissimilar surfaces or particles stick together",
+    "r.name": "subclass of",
+    "n.name": "surface phenomenon",
+    "n.description": "phenomenon that takes place on or near the surface of a substance"
+  },
+  {
+    "m.name": "solar calendar",
+    "m.description": "type of calendar",
+    "r.name": "subclass of",
+    "n.name": "calendar",
+    "n.description": "system of organizing days for social, religious, commercial, or administrative purposes"
+  },
+  {
+    "m.name": "telegraph",
+    "m.description": "telecommunication system",
+    "r.name": "subclass of",
+    "n.name": "appliance",
+    "n.description": "object with which something can be worked on, manufactured or effected"
+  },
+  {
+    "m.name": "instructor",
+    "m.description": "person who teaches others",
+    "r.name": "subclass of",
+    "n.name": "educator",
+    "n.description": "occupation which teaches others knowledge, skills, and habits"
+  },
+  {
+    "m.name": "microscopy",
+    "m.description": "technical field of using microscopes to view samples and objects that cannot be seen with the unaided eye",
+    "r.name": "subclass of",
+    "n.name": "scientific technique",
+    "n.description": "systematic way of obtaining information"
+  },
+  {
+    "m.name": "changeup",
+    "m.description": "type of pitch in baseball",
+    "r.name": "subclass of",
+    "n.name": "off-speed pitch",
+    "n.description": "pitch thrown at a slower speed than a fastball"
+  },
+  {
+    "m.name": "mononeuropathy",
+    "m.description": "neuropathy that is characterized by damage to a single nerve, which results in loss of movement, sensation, or other function of that nerve",
+    "r.name": "subclass of",
+    "n.name": "particular disease",
+    "n.description": "disease as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals (e.g. the ALS of Stephen Hawking)"
+  },
+  {
+    "m.name": "missing person",
+    "m.description": "person who has disappeared and whose status as alive or dead cannot be confirmed",
+    "r.name": "subclass of",
+    "n.name": "human",
+    "n.description": "common name of Homo sapiens, unique extant species of the genus Homo, from embryo to adult"
+  },
+  {
+    "m.name": "marzban",
+    "m.description": "class of margraves, warden of the marches, and by extension military commanders in charge of border provinces of the Parthian Empire",
+    "r.name": "subclass of",
+    "n.name": "margrave",
+    "n.description": "originally the medieval title for the military commander of the border provinces of the Holy Roman Empire or of a kingdom"
+  },
+  {
+    "m.name": "sirtuin family",
+    "m.description": "InterPro Family",
+    "r.name": "subclass of",
+    "n.name": "NAD+ binding protein",
+    "n.description": "class of proteins"
+  },
+  {
+    "m.name": "defendant",
+    "m.description": "accused person",
+    "r.name": "subclass of",
+    "n.name": "litigant",
+    "n.description": "party involved in a lawsuit"
+  },
+  {
+    "m.name": "yakisoba",
+    "m.description": "Japanese stir-fry noodles",
+    "r.name": "subclass of",
+    "n.name": "fried noodle",
+    "n.description": "stir-fried noodle"
+  },
+  {
+    "m.name": "pest control",
+    "m.description": "group of methods to control some species that are harmful to health, economy or ecology",
+    "r.name": "subclass of",
+    "n.name": "control",
+    "n.description": "complete authority over something; ability to fully direct the operation of a device, system, or process"
+  },
+  {
+    "m.name": "racing driver",
+    "m.description": "occupation driving a vehicle in competition",
+    "r.name": "subclass of",
+    "n.name": "vehicle operator",
+    "n.description": "person operating any type of transport vehicle, ship, or aircraft"
+  },
+  {
+    "m.name": "strike",
+    "m.description": "work stoppage caused by the mass refusal of employees to work",
+    "r.name": "subclass of",
+    "n.name": "organizational conflict",
+    "n.description": "discord at the labour market"
+  },
+  {
+    "m.name": "hamburger",
+    "m.description": "American sandwich of ground beef patty",
+    "r.name": "subclass of",
+    "n.name": "dish",
+    "n.description": "specific food preparation with cooking finished, and ready to eat, or be served"
+  },
+  {
+    "m.name": "hot pot",
+    "m.description": "Chinese and Southeast Asian dish",
+    "r.name": "subclass of",
+    "n.name": "dish",
+    "n.description": "specific food preparation with cooking finished, and ready to eat, or be served"
+  },
+  {
+    "m.name": "siderophore",
+    "m.description": "low-molecular-weight compounds produced by microorganisms that aid in the transport and sequestration of ferric iron (Fe3+)",
+    "r.name": "subclass of",
+    "n.name": "iron ionophore",
+    "n.description": "any ionophore capable of transportation of iron ions across membranes"
+  },
+  {
+    "m.name": "religious community",
+    "m.description": "a group of people who practice the same religion",
+    "r.name": "subclass of",
+    "n.name": "religious administrative entity",
+    "n.description": "entity with control over a religion or part of a religion"
+  },
+  {
+    "m.name": "scavenger receptors",
+    "m.description": "cell surface receptors that mediate endocytic uptake of modified lipoproteins",
+    "r.name": "subclass of",
+    "n.name": "immune receptors",
+    "n.description": "cell surface molecules of the immune system that trigger changes in the behavior of cells"
+  },
+  {
+    "m.name": "cooking pot",
+    "m.description": "container used for cooking",
+    "r.name": "subclass of",
+    "n.name": "cookware and bakeware",
+    "n.description": "types of food preparation containers for use on stovetops or in ovens; cooking pots, casseroles, saucepans, frying pans, baking tins, stockpots, etc."
+  },
+  {
+    "m.name": "liturgical book",
+    "m.description": "Christian prayer book",
+    "r.name": "subclass of",
+    "n.name": "book",
+    "n.description": "abstract concept of a book (may be physical, electronic or an audiobook)"
+  },
+  {
+    "m.name": "humor",
+    "m.description": "tendency of someone to point out and emphasize the comical nature of something (or the mental state that leads to this tendency)",
+    "r.name": "subclass of",
+    "n.name": "communication",
+    "n.description": "act of conveying intended meaning"
+  },
+  {
+    "m.name": "double triode",
+    "m.description": "A vacuum tube containing two triodes in a common glass envelope",
+    "r.name": "subclass of",
+    "n.name": "electronic component",
+    "n.description": "basic discrete device or physical entity in an electronic system used to affect electrons or their associated fields"
+  },
+  {
+    "m.name": "tanker vessel",
+    "m.description": "watercraft equipped with tanks to carry liquid cargo",
+    "r.name": "subclass of",
+    "n.name": "transport vessel",
+    "n.description": "watercraft designed for transport of people or other cargo"
+  },
+  {
+    "m.name": "weapon model",
+    "m.description": "specific weapon design, pattern, or version of which all examples are essentially identical",
+    "r.name": "subclass of",
+    "n.name": "product model",
+    "n.description": "class of manufactured objects of similar design sold under a specific brand"
+  },
+  {
+    "m.name": "venom",
+    "m.description": "mixture of toxins and other substances secreted by an animal for the purpose of causing harm to another",
+    "r.name": "subclass of",
+    "n.name": "mixture",
+    "n.description": "substance formed when two or more constituents are physically combined together"
+  },
+  {
+    "m.name": "layer",
+    "m.description": "group of software classes",
+    "r.name": "subclass of",
+    "n.name": "class",
+    "n.description": "collection of items sharing common characteristics; classes provide an abstraction mechanism for grouping resources with similar characteristics (ontology in computer science)"
+  },
+  {
+    "m.name": "bunad",
+    "m.description": "national costume of Norway",
+    "r.name": "subclass of",
+    "n.name": "traditional costume",
+    "n.description": "expression of identity through costume, which is usually associated with a geographic area or a period of time in history"
+  },
+  {
+    "m.name": "plant milk",
+    "m.description": "manufactured, non-dairy beverage made from a plant extract for flavoring and aroma",
+    "r.name": "subclass of",
+    "n.name": "milk substitute",
+    "n.description": "non-dairy substitute for milk"
+  },
+  {
+    "m.name": "eye infection",
+    "m.description": "infection of the eye or eyes",
+    "r.name": "subclass of",
+    "n.name": "eye disease",
+    "n.description": "health condition negatively affecting the eye"
+  },
+  {
+    "m.name": "ear ornament",
+    "m.description": "decorative item worn in, on, or about the ear",
+    "r.name": "subclass of",
+    "n.name": "decoration",
+    "n.description": "adornment worn by people"
+  },
+  {
+    "m.name": "simple chordophone",
+    "m.description": "class of musical instruments",
+    "r.name": "subclass of",
+    "n.name": "chordophone",
+    "n.description": "class of musical instruments that makes sound by way of a vibrating string or strings stretched between two points"
+  },
+  {
+    "m.name": "polka",
+    "m.description": "Central European dance and also a genre of dance music",
+    "r.name": "subclass of",
+    "n.name": "European folk dance",
+    "n.description": "type of dance"
+  },
+  {
+    "m.name": "metabolite",
+    "m.description": "chemical substance produced in metabolic process",
+    "r.name": "subclass of",
+    "n.name": "biomolecule",
+    "n.description": "molecule that is produced by a living organism"
+  },
+  {
+    "m.name": "quinquina",
+    "m.description": "variety of apéritif wines",
+    "r.name": "subclass of",
+    "n.name": "apéritif",
+    "n.description": "alcoholic drink normally served before a meal"
+  },
+  {
+    "m.name": "coolant",
+    "m.description": "substance used to reduce or regulate the temperature of a system",
+    "r.name": "subclass of",
+    "n.name": "chemical substance",
+    "n.description": "matter of constant composition best characterized by the entities (molecules, formula units, atoms) it is composed of and characterized by physical properties like density"
+  },
+  {
+    "m.name": "urethral stricture",
+    "m.description": "narrowing of the urethra caused by injury, instrumentation, infection and certain non-infectious forms of urethritis",
+    "r.name": "subclass of",
+    "n.name": "particular disease",
+    "n.description": "disease as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals (e.g. the ALS of Stephen Hawking)"
+  },
+  {
+    "m.name": "pneumocystosis",
+    "m.description": "infection by Pneumocystis jirovecii",
+    "r.name": "subclass of",
+    "n.name": "opportunistic mycosis",
+    "n.description": "A systemic mycosis that results in fungal infection located in human body of immunocompromised individuals, has material basis in Fungi. The organisms invade via the respiratory tract, alimentary tract, or intravascular devices."
+  },
+  {
+    "m.name": "sabre",
+    "m.description": "type of backsword with a curved blade",
+    "r.name": "subclass of",
+    "n.name": "sword",
+    "n.description": "bladed weapon"
+  },
+  {
+    "m.name": "embryo",
+    "m.description": "multicellular diploid eukaryote in its earliest stage of development",
+    "r.name": "subclass of",
+    "n.name": "organism",
+    "n.description": "any contiguous alive physical entity; entity or being that is living; an individual living thing, such as one animal, plant, fungus, or bacterium"
+  },
+  {
+    "m.name": "lunisolar calendar",
+    "m.description": "calendar based on the solar time of the tropical year with months related to the regular cycle of the Moon's phases",
+    "r.name": "subclass of",
+    "n.name": "solar calendar",
+    "n.description": "type of calendar"
+  },
+  {
+    "m.name": "young man",
+    "m.description": "a young man refers to a boy or young adult man between the ages of 18 to 24.",
+    "r.name": "subclass of",
+    "n.name": "man",
+    "n.description": "male adult human"
+  },
+  {
+    "m.name": "antibiotic",
+    "m.description": "drug used in the treatment and prevention of bacterial infections",
+    "r.name": "subclass of",
+    "n.name": "medication",
+    "n.description": "substance used to diagnose, cure, treat, or prevent disease"
+  },
+  {
+    "m.name": "sail",
+    "m.description": "fabric or other surface supported by a mast to allow wind propulsion",
+    "r.name": "subclass of",
+    "n.name": "ship element",
+    "n.description": "part of a ship"
+  },
+  {
+    "m.name": "clip",
+    "m.description": "used to hold ammunition for firearms",
+    "r.name": "subclass of",
+    "n.name": "magazine",
+    "n.description": "ammunition storage and feeding device of a firearm"
+  },
+  {
+    "m.name": "aglycone",
+    "m.description": "class of chemical compounds",
+    "r.name": "subclass of",
+    "n.name": "chemical substance",
+    "n.description": "matter of constant composition best characterized by the entities (molecules, formula units, atoms) it is composed of and characterized by physical properties like density"
+  },
+  {
+    "m.name": "medieval music",
+    "m.description": "Western music written during the Middle Ages",
+    "r.name": "subclass of",
+    "n.name": "western classical music",
+    "n.description": "broad tradition of Western art music"
+  },
+  {
+    "m.name": "brain ependymoma",
+    "m.description": "Human disease",
+    "r.name": "subclass of",
+    "n.name": "spinal disease",
+    "n.description": "disease involving the vertebral column"
+  },
+  {
+    "m.name": "protein family",
+    "m.description": "group of proteins that share a common evolutionary origin, reflected by similarity in their sequence",
+    "r.name": "subclass of",
+    "n.name": "group or class of proteins",
+    "n.description": "any class, set, or group of proteins; proteins need not be related"
+  },
+  {
+    "m.name": "tale",
+    "m.description": "prose fiction that can be either rooted in oral tradition or created by an author",
+    "r.name": "subclass of",
+    "n.name": "narration",
+    "n.description": "literary form characterized by the description of a sequence of events in a certain order"
+  },
+  {
+    "m.name": "land grant",
+    "m.description": "gift of real estate – land or its use privileges – made by a government or other authority",
+    "r.name": "subclass of",
+    "n.name": "gift",
+    "n.description": "in law, voluntary transfer of property from one person (the donor or grantor) to another (the donee or grantee)"
+  },
+  {
+    "m.name": "electronic organ",
+    "m.description": "electronic keyboard instrument",
+    "r.name": "subclass of",
+    "n.name": "electromechanical instruments",
+    "n.description": "class of musical instruments"
+  },
+  {
+    "m.name": "garnish",
+    "m.description": "item or substance used as a decoration or embellishment accompanying a prepared food dish or drink",
+    "r.name": "subclass of",
+    "n.name": "decoration",
+    "n.description": "any type of adornment"
+  },
+  {
+    "m.name": "search algorithm",
+    "m.description": "any algorithm which solves the search problem, namely, to retrieve information stored within some data structure, or calculated in the search space of a problem domain, either with discrete or continuous values",
+    "r.name": "subclass of",
+    "n.name": "algorithm",
+    "n.description": "sequence of instructions to perform a task"
+  },
+  {
+    "m.name": "data standard",
+    "m.description": "established norm for the handling of factual information",
+    "r.name": "subclass of",
+    "n.name": "technical standard",
+    "n.description": "required norm or standard established to make it easier to do something in a consistent way"
+  },
+  {
+    "m.name": "immigration policy",
+    "m.description": "statutes, regulations, and legal precedents governing immigration into and deportation from a country",
+    "r.name": "subclass of",
+    "n.name": "public policy",
+    "n.description": "principled guide to action taken by the administrative executive branches of the state with regard to a class of issues"
+  },
+  {
+    "m.name": "sterol",
+    "m.description": "any organic compound that is a steroid having a hydroxyl group attached to C3 position",
+    "r.name": "subclass of",
+    "n.name": "steroid",
+    "n.description": "any organic compound having sterane as a core structure"
+  },
+  {
+    "m.name": "placenta neoplasm",
+    "m.description": "neoplasm (disease) that involves the placenta",
+    "r.name": "subclass of",
+    "n.name": "uterine neoplasm",
+    "n.description": "neoplasm (disease) that involves the uterus"
+  },
+  {
+    "m.name": "metal artwork",
+    "m.description": "artwork or other made object of metal",
+    "r.name": "subclass of",
+    "n.name": "artificial physical object",
+    "n.description": "physical object made or shaped by human hand"
+  },
+  {
+    "m.name": "ichthyosis",
+    "m.description": "skin disease in which dry, scaly skin accumulates",
+    "r.name": "subclass of",
+    "n.name": "skin disease",
+    "n.description": "class of disorder that affects skin, hair or nails"
+  },
+  {
+    "m.name": "degradation",
+    "m.description": "process in which an object or system loses its desirable qualities over time",
+    "r.name": "subclass of",
+    "n.name": "process",
+    "n.description": "series of events which occur over an extended period of time"
+  },
+  {
+    "m.name": "muscular disease",
+    "m.description": "disease in which the muscle fibers do not function, resulting in muscular weakness",
+    "r.name": "subclass of",
+    "n.name": "musculoskeletal disorder",
+    "n.description": "disease of anatomical entity that occurs in the muscular and/or skeletal system"
+  },
+  {
+    "m.name": "mining",
+    "m.description": "extraction of valuable minerals or other geological materials from the earth",
+    "r.name": "subclass of",
+    "n.name": "engineering",
+    "n.description": "applied science"
+  },
+  {
+    "m.name": "web framework",
+    "m.description": "software framework that is designed to support the development of websites, web applications, web services and web resources",
+    "r.name": "subclass of",
+    "n.name": "software framework",
+    "n.description": "type of library that helps structure other software"
+  },
+  {
+    "m.name": "protein structure",
+    "m.description": "three-dimensional arrangement of atoms in an amino acid-chain molecule",
+    "r.name": "subclass of",
+    "n.name": "biomolecular structure",
+    "n.description": "3D conformation of a biological sequence, like DNA, RNA, proteins"
+  },
+  {
+    "m.name": "bronchospasm",
+    "m.description": "lower respiratory tract disease that affects the airways leading into the lungs",
+    "r.name": "subclass of",
+    "n.name": "lower respiratory tract disease",
+    "n.description": "respiratory system disease which involves the lower respiratory tract"
+  },
+  {
+    "m.name": "colon adenoma",
+    "m.description": "colonic benign neoplasm that has material basis in epithelial tissue with glandular origin",
+    "r.name": "subclass of",
+    "n.name": "adenoma",
+    "n.description": "cell type benign neoplasm that is composed of epithelial tissue in which tumor cells form glands or glandlike structures"
+  }
+]

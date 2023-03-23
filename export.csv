@@ -1,0 +1,101 @@
+﻿m.name,m.description,r.name,n.name,n.description
+kidney stone,formation of mineral 'stones' in the urinary tract,subclass of,calculus,"concretion of material, usually mineral salts, that forms in an organ or duct of the body"
+substance,basic ontological concept,subclass of,entity,"anything that can be considered, discussed, or observed"
+sung poetry,"musical movement and genre of singer-songwriter music, mainly from the Baltic States and Poland; songs consisting of a poem (most often a ballad) and music written specially for that text",subclass of,singer-songwriter music,"group of musical genres that emerged in the mid-20th century, referring to the music of singer-songwriters, often characterised by political or personal lyrics and minimal acoustic accompaniment"
+virilism,development of male secondary sex characteristics in the female,subclass of,virilization,biological development of male sex characteristics
+dry toilet,toilet that operates without flush water,subclass of,toilet,sanitation fixture
+hash function,type of function that maps data of arbitrary size to data of fixed size,subclass of,deterministic algorithm,"algorithm which, given a particular input, will always produce the same output"
+trial,"coming together of parties to a dispute, to present information in a tribunal",subclass of,occurrence,occurrence of a fact or object in space-time; instantiation of a property in an object
+nature reserve,type of protected natural object in Finland,subclass of,natural heritage,"elements of biodiversity, including flora and fauna, ecosystems, fossils and geological structures"
+kana,Japanese syllable writing system,subclass of,syllabary,set of written symbols that represent the syllables or moras which make up words
+femininity,"set of qualities, characteristics or roles traditionally associated with femaleness",subclass of,gender,characteristics distinguishing between femininity and masculinity
+musical release,a collection of musical recordings released in a specific format for consumption,subclass of,audio release,a collection of audio recordings released in a specific format for consumption
+business jet,civil jet aircraft designed to transport executives and other VIPs,subclass of,jet aircraft,aircraft class powered by jet propulsion engines
+fault,"abnormal condition or defect at the component, equipment, or sub-system level which may lead to an equipment failure",subclass of,state,set of instantaneous values of all variables to which a system or computer program has access
+school laboratory,subconcept of School facilities (scot/10140),subclass of,laboratory,"facility that provides controlled conditions in which scientific or technological research, experiments, and measurement may be performed"
+fruit,"food, edible in the raw state",subclass of,natural physical object,natural thing that exists that humans did not make
+luxury good,type of desirable good,subclass of,goods,"tangible and intangible thing, except labor tied services, that satisfies human wants and provides utility"
+street artist,"artist performing in public places, for gratuities",subclass of,visual artist,artist involved with the visual arts
+hepatocyte,liver cell type,subclass of,cell,basic structural and functional unit of all organisms
+cyberattack,"any attempt to expose, alter, disable, destroy, steal or gain unauthorized access to or make unauthorized use of a computer system",subclass of,technology risk,"risk of emerging or traditional technology, frequently associated with inadequate provision of essential dependency, control or safeguards"
+spirituality,philosophical and theological term,subclass of,mental process,things that individuals can do with their minds
+signal processing,models and analyzes data representations of physical events,subclass of,technology,"making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, and methods of organization"
+leukocyte migration,The movement of a leukocyte within or between different tissues and organs of the body.,subclass of,immune system process,"any process involved in the development or functioning of the immune system, an organismal system for calibrated responses to potential internal or invasive threats"
+kainate receptor,class of transport proteins,subclass of,"ionotropic glutamate receptor, metazoa",ligand-gated ion channels that are activated by the neurotransmitter glutamate
+mine,place for the extraction of minerals,subclass of,source of material,"place where physical material was mined, quarried, found, or produced"
+marine ecology,"branch of ecology concerning marine-life habitats, populations, and interactions among organisms and the surrounding environment",subclass of,ecology,scientific study of the relationships between living organisms
+échevin,"municipal office in Luxembourg and Belgium (where it is also known as a schepen). The equivalent office in the Netherlands is also known as an schepen and similar offices include the Italian scabino, the German Schöffe, and the Czech šepmistr.",subclass of,public office,elected or appointed political position
+fortified wine,wine with an added distilled beverage,subclass of,wine,alcoholic drink typically made from grapes through the fermentation process
+oligosaccharide,a saccharide polymer containing a small number (typically two to ten) of simple sugars (monosaccharides),subclass of,carbohydrate,"organic compound that consists only of carbon, hydrogen, and oxygen"
+ghat,"series of steps leading down to a body of water, particularly a holy river in South Asia",subclass of,architectural structure,human-designed and -made structure
+gender minority,"individual whose gender identity (man, woman, other) or expression (masculine, feminine, other) is different from their sex (male, female) assigned at birth or gender binarism",subclass of,gender identity,"person's private sense of, and subjective experience of, their own gender"
+geography,"science that studies the terrestrial surface, the societies that inhabit it and the territories, landscapes, places or regions that form it when interacting with each other",subclass of,research object,something that undergoes testing or observation in a scientific experiment
+primitive reflexes,"reflex actions in the central nervous system,exhibited by normal infants, but not neurologically intact adults,in response to particular stimuli;absent due to the development of the frontal lobes as a child transitions normally into child development",subclass of,reflex,"automatic, subconscious response to a stimulus"
+adhesion,interaction in which dissimilar surfaces or particles stick together,subclass of,surface phenomenon,phenomenon that takes place on or near the surface of a substance
+solar calendar,type of calendar,subclass of,calendar,"system of organizing days for social, religious, commercial, or administrative purposes"
+telegraph,telecommunication system,subclass of,appliance,"object with which something can be worked on, manufactured or effected"
+instructor,person who teaches others,subclass of,educator,"occupation which teaches others knowledge, skills, and habits"
+microscopy,technical field of using microscopes to view samples and objects that cannot be seen with the unaided eye,subclass of,scientific technique,systematic way of obtaining information
+changeup,type of pitch in baseball,subclass of,off-speed pitch,pitch thrown at a slower speed than a fastball
+mononeuropathy,"neuropathy that is characterized by damage to a single nerve, which results in loss of movement, sensation, or other function of that nerve",subclass of,particular disease,"disease as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals (e.g. the ALS of Stephen Hawking)"
+missing person,person who has disappeared and whose status as alive or dead cannot be confirmed,subclass of,human,"common name of Homo sapiens, unique extant species of the genus Homo, from embryo to adult"
+marzban,"class of margraves, warden of the marches, and by extension military commanders in charge of border provinces of the Parthian Empire",subclass of,margrave,originally the medieval title for the military commander of the border provinces of the Holy Roman Empire or of a kingdom
+sirtuin family,InterPro Family,subclass of,NAD+ binding protein,class of proteins
+defendant,accused person,subclass of,litigant,party involved in a lawsuit
+yakisoba,Japanese stir-fry noodles,subclass of,fried noodle,stir-fried noodle
+pest control,"group of methods to control some species that are harmful to health, economy or ecology",subclass of,control,"complete authority over something; ability to fully direct the operation of a device, system, or process"
+racing driver,occupation driving a vehicle in competition,subclass of,vehicle operator,"person operating any type of transport vehicle, ship, or aircraft"
+strike,work stoppage caused by the mass refusal of employees to work,subclass of,organizational conflict,discord at the labour market
+hamburger,American sandwich of ground beef patty,subclass of,dish,"specific food preparation with cooking finished, and ready to eat, or be served"
+hot pot,Chinese and Southeast Asian dish,subclass of,dish,"specific food preparation with cooking finished, and ready to eat, or be served"
+siderophore,low-molecular-weight compounds produced by microorganisms that aid in the transport and sequestration of ferric iron (Fe3+),subclass of,iron ionophore,any ionophore capable of transportation of iron ions across membranes
+religious community,a group of people who practice the same religion,subclass of,religious administrative entity,entity with control over a religion or part of a religion
+scavenger receptors,cell surface receptors that mediate endocytic uptake of modified lipoproteins,subclass of,immune receptors,cell surface molecules of the immune system that trigger changes in the behavior of cells
+cooking pot,container used for cooking,subclass of,cookware and bakeware,"types of food preparation containers for use on stovetops or in ovens; cooking pots, casseroles, saucepans, frying pans, baking tins, stockpots, etc."
+liturgical book,Christian prayer book,subclass of,book,"abstract concept of a book (may be physical, electronic or an audiobook)"
+humor,tendency of someone to point out and emphasize the comical nature of something (or the mental state that leads to this tendency),subclass of,communication,act of conveying intended meaning
+double triode,A vacuum tube containing two triodes in a common glass envelope,subclass of,electronic component,basic discrete device or physical entity in an electronic system used to affect electrons or their associated fields
+tanker vessel,watercraft equipped with tanks to carry liquid cargo,subclass of,transport vessel,watercraft designed for transport of people or other cargo
+weapon model,"specific weapon design, pattern, or version of which all examples are essentially identical",subclass of,product model,class of manufactured objects of similar design sold under a specific brand
+venom,mixture of toxins and other substances secreted by an animal for the purpose of causing harm to another,subclass of,mixture,substance formed when two or more constituents are physically combined together
+layer,group of software classes,subclass of,class,collection of items sharing common characteristics; classes provide an abstraction mechanism for grouping resources with similar characteristics (ontology in computer science)
+bunad,national costume of Norway,subclass of,traditional costume,"expression of identity through costume, which is usually associated with a geographic area or a period of time in history"
+plant milk,"manufactured, non-dairy beverage made from a plant extract for flavoring and aroma",subclass of,milk substitute,non-dairy substitute for milk
+eye infection,infection of the eye or eyes,subclass of,eye disease,health condition negatively affecting the eye
+ear ornament,"decorative item worn in, on, or about the ear",subclass of,decoration,adornment worn by people
+simple chordophone,class of musical instruments,subclass of,chordophone,class of musical instruments that makes sound by way of a vibrating string or strings stretched between two points
+polka,Central European dance and also a genre of dance music,subclass of,European folk dance,type of dance
+metabolite,chemical substance produced in metabolic process,subclass of,biomolecule,molecule that is produced by a living organism
+quinquina,variety of apéritif wines,subclass of,apéritif,alcoholic drink normally served before a meal
+coolant,substance used to reduce or regulate the temperature of a system,subclass of,chemical substance,"matter of constant composition best characterized by the entities (molecules, formula units, atoms) it is composed of and characterized by physical properties like density"
+urethral stricture,"narrowing of the urethra caused by injury, instrumentation, infection and certain non-infectious forms of urethritis",subclass of,particular disease,"disease as a 1st order class, to be used at the root of the P279 hierarchy. Its instances are individuals (e.g. the ALS of Stephen Hawking)"
+pneumocystosis,infection by Pneumocystis jirovecii,subclass of,opportunistic mycosis,"A systemic mycosis that results in fungal infection located in human body of immunocompromised individuals, has material basis in Fungi. The organisms invade via the respiratory tract, alimentary tract, or intravascular devices."
+sabre,type of backsword with a curved blade,subclass of,sword,bladed weapon
+embryo,multicellular diploid eukaryote in its earliest stage of development,subclass of,organism,"any contiguous alive physical entity; entity or being that is living; an individual living thing, such as one animal, plant, fungus, or bacterium"
+lunisolar calendar,calendar based on the solar time of the tropical year with months related to the regular cycle of the Moon's phases,subclass of,solar calendar,type of calendar
+young man,a young man refers to a boy or young adult man between the ages of 18 to 24.,subclass of,man,male adult human
+antibiotic,drug used in the treatment and prevention of bacterial infections,subclass of,medication,"substance used to diagnose, cure, treat, or prevent disease"
+sail,fabric or other surface supported by a mast to allow wind propulsion,subclass of,ship element,part of a ship
+clip,used to hold ammunition for firearms,subclass of,magazine,ammunition storage and feeding device of a firearm
+aglycone,class of chemical compounds,subclass of,chemical substance,"matter of constant composition best characterized by the entities (molecules, formula units, atoms) it is composed of and characterized by physical properties like density"
+medieval music,Western music written during the Middle Ages,subclass of,western classical music,broad tradition of Western art music
+brain ependymoma,Human disease,subclass of,spinal disease,disease involving the vertebral column
+protein family,"group of proteins that share a common evolutionary origin, reflected by similarity in their sequence",subclass of,group or class of proteins,"any class, set, or group of proteins; proteins need not be related"
+tale,prose fiction that can be either rooted in oral tradition or created by an author,subclass of,narration,literary form characterized by the description of a sequence of events in a certain order
+land grant,gift of real estate – land or its use privileges – made by a government or other authority,subclass of,gift,"in law, voluntary transfer of property from one person (the donor or grantor) to another (the donee or grantee)"
+electronic organ,electronic keyboard instrument,subclass of,electromechanical instruments,class of musical instruments
+garnish,item or substance used as a decoration or embellishment accompanying a prepared food dish or drink,subclass of,decoration,any type of adornment
+search algorithm,"any algorithm which solves the search problem, namely, to retrieve information stored within some data structure, or calculated in the search space of a problem domain, either with discrete or continuous values",subclass of,algorithm,sequence of instructions to perform a task
+data standard,established norm for the handling of factual information,subclass of,technical standard,required norm or standard established to make it easier to do something in a consistent way
+immigration policy,"statutes, regulations, and legal precedents governing immigration into and deportation from a country",subclass of,public policy,principled guide to action taken by the administrative executive branches of the state with regard to a class of issues
+sterol,any organic compound that is a steroid having a hydroxyl group attached to C3 position,subclass of,steroid,any organic compound having sterane as a core structure
+placenta neoplasm,neoplasm (disease) that involves the placenta,subclass of,uterine neoplasm,neoplasm (disease) that involves the uterus
+metal artwork,artwork or other made object of metal,subclass of,artificial physical object,physical object made or shaped by human hand
+ichthyosis,"skin disease in which dry, scaly skin accumulates",subclass of,skin disease,"class of disorder that affects skin, hair or nails"
+degradation,process in which an object or system loses its desirable qualities over time,subclass of,process,series of events which occur over an extended period of time
+muscular disease,"disease in which the muscle fibers do not function, resulting in muscular weakness",subclass of,musculoskeletal disorder,disease of anatomical entity that occurs in the muscular and/or skeletal system
+mining,extraction of valuable minerals or other geological materials from the earth,subclass of,engineering,applied science
+web framework,"software framework that is designed to support the development of websites, web applications, web services and web resources",subclass of,software framework,type of library that helps structure other software
+protein structure,three-dimensional arrangement of atoms in an amino acid-chain molecule,subclass of,biomolecular structure,"3D conformation of a biological sequence, like DNA, RNA, proteins"
+bronchospasm,lower respiratory tract disease that affects the airways leading into the lungs,subclass of,lower respiratory tract disease,respiratory system disease which involves the lower respiratory tract
+colon adenoma,colonic benign neoplasm that has material basis in epithelial tissue with glandular origin,subclass of,adenoma,cell type benign neoplasm that is composed of epithelial tissue in which tumor cells form glands or glandlike structures
